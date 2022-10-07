@@ -1,3 +1,4 @@
 this is the access code for door 123
 456;
 For door B the code is 15
+Door is locked!
